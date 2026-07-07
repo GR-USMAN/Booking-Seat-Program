@@ -1,1 +1,1 @@
-https://gr-usman-01.github.io/Booking-Seat-Program/
+https://gr-usman.github.io/Booking-Seat-Program/
